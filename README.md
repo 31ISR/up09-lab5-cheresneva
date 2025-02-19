@@ -49,6 +49,7 @@ python manage.py runserver
 
 ## Админ-панель
 Админка доступна по адресу `/admin/`. Для доступа необходимо:
+
 1.Создать суперпользователя:
 ```bush
 python manage.py createsuperuser
